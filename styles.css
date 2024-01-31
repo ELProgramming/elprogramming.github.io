@@ -1,0 +1,18 @@
+html {
+    background-color: rgb(90, 151, 255);
+}
+h1 {
+    color: black;
+    background-color: yellowgreen;
+    border: 2px dotted brown;
+  }
+p {
+    color:black;
+    background-color: yellowgreen;
+    border: 2px dotted brown;
+}
+li {
+    list-style-type: square;
+    background-color: yellowgreen;
+    border: 2px dotted brown;
+}
